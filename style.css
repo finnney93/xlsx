@@ -85,7 +85,7 @@ th {
   left: 50%;
   transform: translate(-50%, -40%);
   z-index: 3;
-  background: white;
+  background: red;
   padding: 40px 30px;
   border-radius: 8px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
