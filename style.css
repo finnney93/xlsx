@@ -155,3 +155,9 @@ html, body {
     animation: shake 0.4s ease;
     border-color: red;
   }
+ {
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Standard */
+}
